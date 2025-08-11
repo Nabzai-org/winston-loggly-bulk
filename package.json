@@ -1,5 +1,5 @@
 {
-  "name": "winston-loggly-bulk",
+  "name": "winston-loggly-bulk-security-patch-001",
   "version": "3.3.2",
   "description": "A Loggly transport for winston",
   "author": "Loggly <opensource@loggly.com>",
@@ -29,7 +29,7 @@
   ],
   "dependencies": {
     "lodash.clonedeep": "4.5.0",
-    "node-loggly-bulk": "4.0.2",
+    "node-loggly-bulk": "Nabzai-org/node-loggly-bulk",
     "winston": "3.10.0",
     "winston-transport": "4.5.0"
   },
